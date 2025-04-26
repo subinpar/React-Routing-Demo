@@ -1,0 +1,45 @@
+.header-container {
+  background-color: #032541;
+  padding: 16px 24px;
+  color: white;
+}
+
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.logo img {
+  height: 20px;
+}
+
+.nav-list {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-list a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-list a:hover {
+  color: #00c3ff;
+}
+
+.header-right {
+  flex-shrink: 0;
+}
