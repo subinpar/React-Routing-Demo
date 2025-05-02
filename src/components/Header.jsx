@@ -27,11 +27,15 @@ export default function Header() {
                 <Link to="/person">인물</Link>
               </li>
               <li>
-                <Link to="/test">More</Link>
+                <Link to="/shop">상점</Link>
+              </li>
+              <li>
+                <Link to="/cart">장바구니</Link>
               </li>
             </ul>
           </nav>
         </div>
+
         <div className="header-right">
           <SearchBar />
         </div>

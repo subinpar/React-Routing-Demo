@@ -23,6 +23,7 @@ export const dummy = {
       video: false,
       vote_average: 6.7,
       vote_count: 727,
+      price: 19900,
     },
     {
       adult: false,
@@ -40,6 +41,7 @@ export const dummy = {
       video: false,
       vote_average: 8.3,
       vote_count: 1219,
+      price: 19900,
     },
     {
       adult: false,
@@ -57,6 +59,7 @@ export const dummy = {
       video: false,
       vote_average: 4.5,
       vote_count: 2,
+      price: 20000,
     },
     {
       adult: false,
@@ -74,6 +77,7 @@ export const dummy = {
       video: false,
       vote_average: 6.4,
       vote_count: 57,
+      price: 35000,
     },
     {
       adult: false,
@@ -91,6 +95,7 @@ export const dummy = {
       video: false,
       vote_average: 6.8,
       vote_count: 15,
+      price: 19900,
     },
     {
       adult: false,
@@ -108,6 +113,7 @@ export const dummy = {
       video: false,
       vote_average: 6.6,
       vote_count: 233,
+      price: 29900,
     },
     {
       adult: false,
@@ -125,6 +131,7 @@ export const dummy = {
       video: false,
       vote_average: 6.1,
       vote_count: 256,
+      price: 19900,
     },
     {
       adult: false,
@@ -142,6 +149,7 @@ export const dummy = {
       video: false,
       vote_average: 6.2,
       vote_count: 25,
+      price: 9900,
     },
     {
       adult: false,
@@ -159,6 +167,7 @@ export const dummy = {
       video: false,
       vote_average: 0,
       vote_count: 0,
+      price: 9900,
     },
     {
       adult: false,
@@ -176,6 +185,7 @@ export const dummy = {
       video: false,
       vote_average: 7.3,
       vote_count: 6,
+      price: 19900,
     },
     {
       adult: false,
@@ -193,6 +203,7 @@ export const dummy = {
       video: false,
       vote_average: 0,
       vote_count: 0,
+      price: 49900,
     },
     {
       adult: false,
@@ -210,6 +221,7 @@ export const dummy = {
       video: false,
       vote_average: 0,
       vote_count: 0,
+      price: 19900,
     },
     {
       adult: false,
@@ -227,6 +239,7 @@ export const dummy = {
       video: false,
       vote_average: 0,
       vote_count: 0,
+      price: 19900,
     },
     {
       adult: false,
@@ -244,6 +257,7 @@ export const dummy = {
       video: false,
       vote_average: 0,
       vote_count: 0,
+      price: 19900,
     },
     {
       adult: false,
@@ -261,6 +275,7 @@ export const dummy = {
       video: false,
       vote_average: 0,
       vote_count: 0,
+      price: 20000,
     },
     {
       adult: false,
@@ -278,6 +293,7 @@ export const dummy = {
       video: false,
       vote_average: 6.8,
       vote_count: 83,
+      price: 19900,
     },
     {
       adult: false,
@@ -295,6 +311,7 @@ export const dummy = {
       video: false,
       vote_average: 5,
       vote_count: 309,
+      price: 19900,
     },
     {
       adult: false,
@@ -312,6 +329,7 @@ export const dummy = {
       video: false,
       vote_average: 0,
       vote_count: 0,
+      price: 19900,
     },
     {
       adult: false,
@@ -329,6 +347,7 @@ export const dummy = {
       video: false,
       vote_average: 7,
       vote_count: 124,
+      price: 29900,
     },
     {
       adult: false,
@@ -346,6 +365,7 @@ export const dummy = {
       video: false,
       vote_average: 7.8,
       vote_count: 115,
+      price: 19900,
     },
   ],
   total_pages: 3,
